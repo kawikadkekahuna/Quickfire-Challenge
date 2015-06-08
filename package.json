@@ -1,0 +1,19 @@
+{
+  "name": "670e4912024f8bdd1ff9",
+  "version": "1.0.0",
+  "description": "We are going to be doing a quickfire challenge to solve the following objectives in a short amount of time in the following order:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gist.github.com/670e4912024f8bdd1ff9.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gist.github.com/670e4912024f8bdd1ff9"
+  },
+  "homepage": "https://gist.github.com/670e4912024f8bdd1ff9"
+}
