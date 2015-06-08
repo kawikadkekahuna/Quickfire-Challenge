@@ -1,4 +1,4 @@
-###Test...Solve...Refactor
+###Test...Solve...Refactor...Commit
 
 We are going to be doing a quickfire challenge to solve the following objectives in a short amount of time in the following order:
 
